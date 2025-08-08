@@ -13,7 +13,9 @@
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-purple?logo=figma&logoColor=white)
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/microchip.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/electronics.png" width="40" height="40"/>
 
 - **Frontend Development**: HTML, CSS, JavaScript, React.js  
 - **Backend Development**: Node.js, Express.js  
