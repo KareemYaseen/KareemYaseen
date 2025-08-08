@@ -13,6 +13,7 @@
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-purple?logo=figma&logoColor=white)
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
 
 - **Frontend Development**: HTML, CSS, JavaScript, React.js  
 - **Backend Development**: Node.js, Express.js  
