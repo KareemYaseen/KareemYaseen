@@ -1,4 +1,4 @@
-# Hi there, I'm Kareem 👋
+# Hello, I'm Kareem 👋
 
 💻 **Frontend Web Developer**  
 🎨 **UI/UX Designer** with 5+ years in Photoshop & Illustrator  
@@ -14,6 +14,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-purple?logo=figma&logoColor=white)
 
+---
+## 📌 Featured Projects
+- 🎵 [Music Equalizer](https://github.com/KareemYaseen/Music-Equalizer) — Cool UI audio visualizer
+- 🌐 [Portfolio Website](#) — Modern responsive portfolio design
 ---
 
 ![Kareem's GitHub stats](https://github-readme-stats.vercel.app/api?username=KareemYaseen&show_icons=true&theme=radical)
