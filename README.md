@@ -14,11 +14,27 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-purple?logo=figma&logoColor=white)
 
+- **Frontend Development**: HTML, CSS, JavaScript, React.js  
+- **Backend Development**: Node.js, Express.js  
+- **Databases**: MongoDB, MySQL  
+- **Embedded Systems**: C Language, ARM Cortex, Microcontrollers, Sensors Integration, RTOS basics  
+- **Other Tools & Technologies**: Git, GitHub, REST APIs, Bootstrap
 ---
+## 💡 About Me
+- 🎓 Graduated with a **Machine Learning** graduation project  
+- 💻 Experienced in both **Web Development** and **Embedded Systems**  
+- 🛠 Always learning and building new projects to sharpen my skills  
+- 📍 Based in Egypt, open to remote opportunities
+----
 ## 📌 Featured Projects
 - 🎵 [Music Equalizer](https://github.com/KareemYaseen/Music-Equalizer) — Cool UI audio visualizer
 - 🌐 [Portfolio Website](#) — Modern responsive portfolio design
 ---
+## 📫 Let's Connect
+- **GitHub**: [github.com/KareemYaseen](https://github.com/KareemYaseen)  
+- **LinkedIn**: *[Add your LinkedIn link here](https://www.linkedin.com/in/kareem-yaseen/)*  
+- **Email**: *Kareem.yaseen98@eng-st.cu.edu.eg*
+- -----
 
 ![Kareem's GitHub stats](https://github-readme-stats.vercel.app/api?username=KareemYaseen&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KareemYaseen&theme=radical)
