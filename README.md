@@ -30,21 +30,19 @@
 - 📍 Based in Egypt, open to remote opportunities
 ---
 
-## 🚀 Featured Projects  
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🎵 **[Music Equalizer](https://github.com/KareemYaseen/Music-Equalizer)** | Stylish real-time audio visualizer with smooth animations | HTML • CSS • JavaScript |
-| 🌐 **[Portfolio Website](#)** | Fully responsive personal portfolio with modern UI/UX design | HTML • CSS • JS • Bootstrap |
-| 🤖 **[Object Detection with TensorFlow](#)** | Real-time object detection powered by Machine Learning | Python • TensorFlow • OpenCV |
+---
+## 📌 Featured Projects
+- 🎵 [Music Equalizer](https://github.com/KareemYaseen/Music-Equalizer) — Cool UI audio visualizer
+- 🌐 [Portfolio Website](#) — Modern responsive portfolio design
+- 🤖 [Object Detection with TensorFlow](#) — Real-time object detection using ML
 
 ---
-
-## 📫 Let's Connect  
-<p align="left">
-  <a href="https://github.com/KareemYaseen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kareem-yaseen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Kareem.yaseen98@eng-st.cu.edu.eg"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+## 📫 Let's Connect
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KareemYaseen)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-yaseen/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/karim_m_yaseen/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/kareem105)  
+📧 **Email**: Kareem.yaseen98@eng-st.cu.edu.eg
 
 ---
 ![Kareem's GitHub stats](https://github-readme-stats.vercel.app/api?username=KareemYaseen&show_icons=true&theme=radical)  
