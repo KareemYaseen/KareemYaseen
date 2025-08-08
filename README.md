@@ -1,4 +1,4 @@
-# Hi there, I'm Kareem 👋
+# Hello, I'm Kareem 👋
 
 💻 **Frontend Web Developer**  
 🎨 **UI/UX Designer** with 5+ years in Photoshop & Illustrator  
